@@ -1,3 +1,4 @@
+![logo](https://github.com/JoshFernando/JoshFernando/blob/main/github-header-image-2.png)
 <h1 align="center">Hi 👋, I am Josh Fernando</h1>
 <h3 align="center">A student trailblazer: fusing AI passion, diverse skills, and relentless curiosity for a brighter future</h3>
 
