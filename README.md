@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/1/my-drive](https://drive.google.com/drive/u/1/my-drive)
 
-- ⚡ Fun fact: **I am currently on my 4th winning streak in hackatons**
+- ⚡ Fun fact: ** I am a 10x Hackathon Winner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
